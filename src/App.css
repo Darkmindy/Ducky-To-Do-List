@@ -1,0 +1,11 @@
+.text-big {
+  font-size: 2rem;
+  color: blue;
+  font-weight: bold;
+}
+
+.text-small {
+  font-size: 0.8rem;
+  color: red;
+  font-weight: 400;
+}
